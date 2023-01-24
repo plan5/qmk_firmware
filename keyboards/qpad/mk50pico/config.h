@@ -18,3 +18,8 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+//#define MANUFACTURER    adafruit
+//#define PRODUCT    adafruit qpadmk50
+//#define DESCRIPTION    adafruit qpadmk50
+#define BOOTMAGIC_LITE_ROW 4
+#define BOOTMAGIC_LITE_COLUMN 14
