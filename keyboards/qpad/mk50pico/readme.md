@@ -11,11 +11,14 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make qpad-mk50-picow:default
+    make qpad/mk50pico:default
 
 Flashing example for this keyboard:
 
-    make qpad-mk50-picow:default:flash
+1. Bring Raspberr Pi Pico (W) into programming mode (hold BOOTSEL button on the
+   board to mount as drive.
+2. Copy .uf2 image to the mounted board.
+3. Un- and replug.
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
