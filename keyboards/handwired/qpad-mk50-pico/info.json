@@ -1,6 +1,6 @@
 {
     "manufacturer": "plan5",
-    "keyboard_name": "qpad-mk50-picow",
+    "keyboard_name": "qpad-mk50-pico",
     "maintainer": "plan5",
     "bootloader": "atmel-dfu",
     "diode_direction": "ROW2COL",

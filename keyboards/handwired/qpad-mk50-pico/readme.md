@@ -1,9 +1,9 @@
 # qpad-mk50-picow
 
-![qpad-mk50-picow front](front.jpg)
-![qpad-mk50-picow back inside](back.jpg)
+![qpad-mk50-pico front](front.jpg)
+![qpad-mk50-pico back inside](back.jpg)
 
-This project hand-wires a Raspberry Pi Pico to the cheap QPAD MK-50 mechanical
+This project hand-wires a Raspberry Pi Pico W to the cheap QPAD MK-50 mechanical
 keyboard (105 key ISO version). For another project using the Raspberry Pi Pico
 but with direct pin wiring, see [Adafruit Macropad](../../adafruit/macropad/).
 
